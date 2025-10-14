@@ -3,17 +3,15 @@
   const CONFIG = {
     message: `
 Chères lectrices, chers lecteurs,
-Chères autrices, chers auteurs, partenaires et ami·es de Les Lueurs Reliées,
+Chères autrices, chers auteurs,
 
 C’est avec beaucoup d’émotion que je vous informe que la maison d’édition Les Lueurs Reliées suspend ses activités jusqu’à nouvel ordre.
 
-Malgré l’enthousiasme, l’engagement et les beaux projets portés au fil des années, des difficultés financières persistantes ne nous permettent plus, à ce jour, de poursuivre l’aventure dans des conditions viables.
+Malgré l’enthousiasme, l’engagement et les beaux projets portés au fil des mois, des difficultés financières persistantes ne nous permettent plus, à ce jour, de poursuivre l’aventure dans des conditions viables.
 
 Cette décision n’a pas été facile à prendre. Elle reflète cependant une réalité que je ne peux ignorer, et je choisis aujourd’hui d’y répondre avec lucidité et responsabilité.
 
-Je tiens à exprimer ma profonde gratitude à toutes celles et ceux qui ont cru en Les Lueurs Reliées, aux auteur·ices qui nous ont fait confiance, aux partenaires de travail et aux lecteurs et lectrices qui ont soutenu nos publications.
-
-Cette mise en pause n’efface en rien les belles choses accomplies, ni l’espoir — peut-être un jour — de voir renaître Les Lueurs Reliées sous une nouvelle forme.
+Je tiens à exprimer ma profonde gratitude à toutes celles et ceux qui ont cru en Les Lueurs Reliées, aux auteur·ices qui nous ont fait confiance.
 
 Merci, du fond du cœur, pour votre soutien.
 
