@@ -16,8 +16,6 @@ Je tiens à exprimer ma profonde gratitude à toutes celles et ceux qui ont cru 
 Merci, du fond du cœur, pour votre soutien.
 
 Avec toute ma reconnaissance,
-
-
 Jeanne Lefevre, Directrice Éditoriale
     `.trim(),
     showAfterSeconds: 0,
